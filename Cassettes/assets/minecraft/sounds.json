@@ -1,0 +1,11 @@
+{
+    "music_disc.fullalbums.charlixcx_brat": {
+        "sounds": [
+            {
+            "name": "records/charlixcx_brat",
+            "stream": true,
+            "volume": 0.4
+            }
+        ]
+    }
+}
